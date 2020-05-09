@@ -11,8 +11,8 @@ theme = "hugo-coder"
     avatarurl = "images/icon.jpg"
     hidecredits = true
     colorscheme = "light"
-    favicon_32 = "/images/favicon_32x32.jpeg"
-    favicon_16 = "/images/favicon_16x16.jpeg"
+    favicon_32 = "/images/favicon-32x32.jpeg"
+    favicon_16 = "/images/favicon-16x16.jpeg"
 
 [[params.social]]
     name = "Github"
