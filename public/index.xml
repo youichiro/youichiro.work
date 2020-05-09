@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>youichiro.work</title>
+    <link>http://example.org/</link>
+    <description>Recent content on youichiro.work</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 09 May 2020 16:53:35 +0900</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sat, 09 May 2020 16:53:35 +0900</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>&lt;h3 id=&#34;job&#34;&gt;Job&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Software Developer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;skills&#34;&gt;Skills&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Languages
+&lt;ul&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;Ruby&lt;/li&gt;
+&lt;li&gt;SQL&lt;/li&gt;
+&lt;li&gt;JavaScript, TypeScript&lt;/li&gt;
+&lt;li&gt;C, C++&lt;/li&gt;
+&lt;li&gt;Go&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Frameworks
+&lt;ul&gt;
+&lt;li&gt;Django&lt;/li&gt;
+&lt;li&gt;Ruby on Rails&lt;/li&gt;
+&lt;li&gt;Vue&lt;/li&gt;
+&lt;li&gt;React&lt;/li&gt;
+&lt;li&gt;Angular&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tools
+&lt;ul&gt;
+&lt;li&gt;git&lt;/li&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;li&gt;tmux&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;interests&#34;&gt;Interests&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Server-side application development&lt;/li&gt;
+&lt;li&gt;Front-end application development&lt;/li&gt;
+&lt;li&gt;Natural language processing&lt;/li&gt;
+&lt;li&gt;Computer vision&lt;/li&gt;
+&lt;li&gt;Machine learning / Deep learning&lt;/li&gt;
+&lt;li&gt;Education&lt;/li&gt;
+&lt;li&gt;Blockchain&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;publications&#34;&gt;Publications&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;小川耀一朗, 山本和英. (2017) &amp;ldquo;間違えやすい漢字の誤用訂正&amp;rdquo;, 2017年度日本語教育学会秋季大会, pp.342-346&lt;/li&gt;
+&lt;li&gt;Youichiro Ogawa, Kazuhide Yamamoto. (2017) &amp;ldquo;Correcting Misuse of Japanese Visually Similar Characters&amp;rdquo;, Proceedings of the International Conference on Asian Language Processing (IALP 2017), pp.57-60&lt;/li&gt;
+&lt;li&gt;小川耀一朗, 山本和英. (2018) &amp;ldquo;「間違いが直す」格助詞誤り訂正システム&amp;rdquo;, 2018年度日本語教育学会秋季大会, pp.313-318&lt;/li&gt;
+&lt;li&gt;小川耀一朗, 山本和英. (2019) &amp;ldquo;分類モデルを用いた日本語学習者の格助詞誤り訂正&amp;rdquo;, 言語処理学会第25回年次大会, pp.827-830&lt;/li&gt;
+&lt;li&gt;Youichiro Ogawa, Kazuhide Yamamoto. (2019) &amp;ldquo;Japanese Particle Error Correction employing Classification Model&amp;rdquo;, Proceedings of the International Conference on Asian Language Processing (IALP 2019), pp.23-28&lt;/li&gt;
+&lt;li&gt;小川耀一朗, 山本和英. (2020) &amp;ldquo;日本語文法誤り訂正における誤り傾向を考慮した擬似誤り生成&amp;rdquo;, 言語処理学会第26回年次大会, pp.505-508&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;developed-tools&#34;&gt;Developed tools&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;日本語文法誤りチェッカー
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://app.jnlp.org/gec&#34;&gt;https://app.jnlp.org/gec&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hobbies&#34;&gt;Hobbies&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;taking a picture&lt;/li&gt;
+&lt;li&gt;reading a book&lt;/li&gt;
+&lt;li&gt;soccer games&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/cinnamon_416&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/youichiro&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://speakerdeck.com/youichiro/&#34;&gt;Speaker Deck&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
