@@ -48,3 +48,6 @@ sliderElm.style.height = `${sliderHeight}px`;
 // events
 document.getElementById('start-btn').onclick = start;
 document.getElementById('stop-btn').onclick = stop;
+window.addEventListener("orientationchange", () => {
+  location.reload();
+})
