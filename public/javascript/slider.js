@@ -2,7 +2,7 @@
 
 const timestep = 10 * 1000;  // ms
 
-const imageNum = 12;
+const imageNum = 5;
 const images = [...Array(imageNum).keys()].map(i => `/images/slider/image${i+1}.jpg`);
 
 let count = 0;
