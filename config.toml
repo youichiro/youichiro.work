@@ -1,4 +1,4 @@
-baseURL = "https://youichiro.work/"
+baseURL = "https://youichiro.work"
 languageCode = "ja"
 title = "youichiro.work"
 theme = "hugo-coder"
@@ -13,6 +13,8 @@ theme = "hugo-coder"
     colorscheme = "light"
     favicon_32 = "/images/favicon-32x32.jpeg"
     favicon_16 = "/images/favicon-16x16.jpeg"
+    custom_css = ["css/slider.css"]
+    custom_js = ["javascript/slider.js"]
 
 [[params.social]]
     name = "Github"
@@ -29,3 +31,8 @@ theme = "hugo-coder"
     name = "About"
     weight = 1
     url = "/about/"
+
+[[menu.main]]
+    name = "Photos"
+    weight = 2
+    url = "/photos/"
