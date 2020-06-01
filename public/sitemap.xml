@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>https://youichiro.work/</loc>
-    <lastmod>2020-05-09T21:38:41+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://youichiro.work/about/</loc>
     <lastmod>2020-05-09T16:53:35+09:00</lastmod>
   </url>
@@ -23,6 +18,10 @@
   
   <url>
     <loc>https://youichiro.work/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://youichiro.work/</loc>
   </url>
   
 </urlset>
