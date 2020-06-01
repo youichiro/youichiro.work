@@ -28,6 +28,7 @@ draft: false
   - Docker
   - tmux
 
+
 ### Interests
 
 - Server-side application development
@@ -53,13 +54,19 @@ draft: false
 - 日本語文法誤りチェッカー
   - https://app.jnlp.org/gec
 
+
 ### Hobbies
 - taking a picture
 - reading a book
 - soccer games
 
 
+### From
+- Nagaoka, Niigata
+
+
 ### Links
 - [Twitter](https://twitter.com/cinnamon_416)
 - [GitHub](https://github.com/youichiro)
 - [Speaker Deck](https://speakerdeck.com/youichiro/)
+
