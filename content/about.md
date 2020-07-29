@@ -51,7 +51,7 @@ draft: false
   - https://tochio-animals.netlify.app/
 
 
-## Intern, Part time job
+### Intern, Part time job
 - 株式会社Gunosy
   - 2017.10~2018.02
   - データ分析業務
@@ -85,3 +85,6 @@ draft: false
 - [GitHub](https://github.com/youichiro)
 - [Speaker Deck](https://speakerdeck.com/youichiro/)
 
+
+### Contact
+- cinnamon416@gmail.com
