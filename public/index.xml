@@ -43,11 +43,11 @@
       <guid>https://youichiro.work/about/</guid>
       <description>&lt;h3 id=&#34;job&#34;&gt;Job&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Software Developer&lt;/li&gt;
+&lt;li&gt;Webエンジニア&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;skills&#34;&gt;Skills&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Languages
+&lt;li&gt;プログラミング言語
 &lt;ul&gt;
 &lt;li&gt;Python&lt;/li&gt;
 &lt;li&gt;Ruby&lt;/li&gt;
@@ -57,11 +57,11 @@
 &lt;li&gt;Go&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Frameworks
+&lt;li&gt;フレームワーク
 &lt;ul&gt;
-&lt;li&gt;Django&lt;/li&gt;
+&lt;li&gt;Django, Flask&lt;/li&gt;
 &lt;li&gt;Ruby on Rails&lt;/li&gt;
-&lt;li&gt;Vue&lt;/li&gt;
+&lt;li&gt;Vue, Nuxt&lt;/li&gt;
 &lt;li&gt;React&lt;/li&gt;
 &lt;li&gt;Angular&lt;/li&gt;
 &lt;/ul&gt;
@@ -71,18 +71,53 @@
 &lt;li&gt;git&lt;/li&gt;
 &lt;li&gt;Docker&lt;/li&gt;
 &lt;li&gt;tmux&lt;/li&gt;
+&lt;li&gt;vim&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;interests&#34;&gt;Interests&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Server-side application development&lt;/li&gt;
-&lt;li&gt;Front-end application development&lt;/li&gt;
-&lt;li&gt;Natural language processing&lt;/li&gt;
+&lt;li&gt;サーバーサイド, フロントエンド&lt;/li&gt;
+&lt;li&gt;自然言語処理&lt;/li&gt;
 &lt;li&gt;Computer vision&lt;/li&gt;
-&lt;li&gt;Machine learning / Deep learning&lt;/li&gt;
-&lt;li&gt;Education&lt;/li&gt;
+&lt;li&gt;Machine learning, Deep learning&lt;/li&gt;
+&lt;li&gt;教育, EduTech&lt;/li&gt;
 &lt;li&gt;Blockchain&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;developed&#34;&gt;Developed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;日本語文法誤りチェッカー
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://app.jnlp.org/gec&#34;&gt;https://app.jnlp.org/gec&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;技大祭シフトアプリ
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=net.nutfes.nutfes_shift_app&amp;amp;hl=ja&#34;&gt;Google Play&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://apps.apple.com/jp/app/%E6%8A%80%E5%A4%A7%E7%A5%AD%E3%82%B7%E3%83%95%E3%83%88%E3%82%A2%E3%83%97%E3%83%AA/id1476829958&#34;&gt;App Store&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;現在は使用できません&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;栃尾動物園マップ
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://tochio-animals.netlify.app/&#34;&gt;https://tochio-animals.netlify.app/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;intern-part-time-job&#34;&gt;Intern, Part time job&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;株式会社Gunosy
+&lt;ul&gt;
+&lt;li&gt;2017.10~2018.02&lt;/li&gt;
+&lt;li&gt;データ分析業務&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;ギリア株式会社 (旧AIUEO)
+&lt;ul&gt;
+&lt;li&gt;2019.07~2020.03&lt;/li&gt;
+&lt;li&gt;研究開発&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;publications&#34;&gt;Publications&lt;/h3&gt;
 &lt;ul&gt;
@@ -93,19 +128,11 @@
 &lt;li&gt;Youichiro Ogawa, Kazuhide Yamamoto. (2019) &amp;ldquo;Japanese Particle Error Correction employing Classification Model&amp;rdquo;, Proceedings of the International Conference on Asian Language Processing (IALP 2019), pp.23-28&lt;/li&gt;
 &lt;li&gt;小川耀一朗, 山本和英. (2020) &amp;ldquo;日本語文法誤り訂正における誤り傾向を考慮した擬似誤り生成&amp;rdquo;, 言語処理学会第26回年次大会, pp.505-508&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;developed-tools&#34;&gt;Developed tools&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;日本語文法誤りチェッカー
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.jnlp.org/gec&#34;&gt;https://app.jnlp.org/gec&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 &lt;h3 id=&#34;hobbies&#34;&gt;Hobbies&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;taking a picture&lt;/li&gt;
-&lt;li&gt;reading a book&lt;/li&gt;
-&lt;li&gt;soccer games&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youichiro.work/photos&#34;&gt;写真&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;読書&lt;/li&gt;
+&lt;li&gt;サッカー&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;from&#34;&gt;From&lt;/h3&gt;
 &lt;ul&gt;

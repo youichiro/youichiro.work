@@ -5,39 +5,59 @@ draft: false
 ---
 
 ### Job
-- Software Developer
+- Webエンジニア
 
 
 ### Skills
 
-- Languages
+- プログラミング言語
   - Python
   - Ruby
   - SQL
   - JavaScript, TypeScript
   - C, C++
   - Go
-- Frameworks
-  - Django
+- フレームワーク
+  - Django, Flask
   - Ruby on Rails
-  - Vue
+  - Vue, Nuxt
   - React
   - Angular
 - Tools
   - git
   - Docker
   - tmux
+  - vim
 
 
 ### Interests
 
-- Server-side application development
-- Front-end application development
-- Natural language processing
+- サーバーサイド, フロントエンド
+- 自然言語処理
 - Computer vision
-- Machine learning / Deep learning
-- Education
+- Machine learning, Deep learning
+- 教育, EduTech
 - Blockchain
+
+
+### Developed
+- 日本語文法誤りチェッカー
+  - https://app.jnlp.org/gec
+- 技大祭シフトアプリ
+  - [Google Play](https://play.google.com/store/apps/details?id=net.nutfes.nutfes_shift_app&hl=ja)
+  - [App Store](https://apps.apple.com/jp/app/技大祭シフトアプリ/id1476829958)
+  - 現在は使用できません
+- 栃尾動物園マップ
+  - https://tochio-animals.netlify.app/
+
+
+## Intern, Part time job
+- 株式会社Gunosy
+  - 2017.10~2018.02
+  - データ分析業務
+- ギリア株式会社 (旧AIUEO)
+  - 2019.07~2020.03
+  - 研究開発
 
 
 ### Publications
@@ -50,15 +70,10 @@ draft: false
 - 小川耀一朗, 山本和英. (2020) "日本語文法誤り訂正における誤り傾向を考慮した擬似誤り生成", 言語処理学会第26回年次大会, pp.505-508
 
 
-### Developed tools
-- 日本語文法誤りチェッカー
-  - https://app.jnlp.org/gec
-
-
 ### Hobbies
-- taking a picture
-- reading a book
-- soccer games
+- [写真](https://youichiro.work/photos)
+- 読書
+- サッカー
 
 
 ### From
