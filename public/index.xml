@@ -6,9 +6,23 @@
     <description>Recent content on youichiro.work</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Thu, 30 Jul 2020 00:00:38 +0900</lastBuildDate>
     
 	<atom:link href="https://youichiro.work/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>テスト投稿</title>
+      <link>https://youichiro.work/posts/test/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:38 +0900</pubDate>
+      
+      <guid>https://youichiro.work/posts/test/</guid>
+      <description>&lt;p&gt;テスト投稿&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-ruby&#34; data-lang=&#34;ruby&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hoge&lt;/span&gt;
+  puts &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;hoge&amp;#39;&lt;/span&gt;
+&lt;span style=&#34;color:#66d9ef&#34;&gt;end&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
     
     <item>
       <title>Photos</title>

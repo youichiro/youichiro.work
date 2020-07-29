@@ -7,7 +7,7 @@ theme = "hugo-coder"
     author = "Youichiro Ogawa"
     info = ""
     description = "Youichiro Ogawa's personal website"
-    keywords = "personal"
+    keywords = "小川耀一朗"
     avatarurl = "images/icon.jpg"
     hidecredits = true
     colorscheme = "light"
@@ -36,3 +36,8 @@ theme = "hugo-coder"
     name = "Photos"
     weight = 2
     url = "/photos/"
+
+[[menu.main]]
+    name = "Blog"
+    weight = 3
+    url = "/posts/"
