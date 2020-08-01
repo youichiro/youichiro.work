@@ -10,7 +10,7 @@ theme = "hugo-coder"
     keywords = "小川耀一朗"
     avatarurl = "images/icon.jpg"
     hidecredits = true
-    colorscheme = "light"
+    colorscheme = "dark"
     favicon_32 = "/images/favicon-32x32.jpeg"
     favicon_16 = "/images/favicon-16x16.jpeg"
     custom_css = ["css/slider.css"]
@@ -21,6 +21,7 @@ theme = "hugo-coder"
     icon = "fab fa-github fa-2x"
     weight = 1
     url = "https://github.com/youichiro/"
+
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
