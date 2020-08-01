@@ -145,7 +145,7 @@
   let canvas;
   let fireworks = [];
   let star = [];
-  const speedRate = 0.0002 * window.parent.screen.width + 0.5;
+  const speedRate = 0.0003 * window.parent.screen.width + 0.232;
 
   function windowResized() {
     resizeCanvas(document.documentElement.clientWidth, document.documentElement.clientHeight);
@@ -154,41 +154,41 @@
 
   function setup() {
     
-    setTimeout(function() {
-      canvas = createCanvas(document.documentElement.clientWidth, document.documentElement.clientHeight);
-      canvas.position(0, 0);
-      canvas.style("z-index", "-1");
-      colorMode(RGB);
-      frameRate(60);
-      this.preStar();
-    }, 1000)
+    canvas = createCanvas(document.documentElement.clientWidth, document.documentElement.clientHeight);
+    canvas.position(0, 0);
+    canvas.style("z-index", "-1");
+    colorMode(RGB);
+    frameRate(60);
+    this.preStar();
   }
 
   function draw() {
-    
-    setGradient(0, 0, width, height, color(0, 0, 0), color(24, 32, 72), Y_AXIS);
-    noStroke();
-
-    
-    this.drawStar();
-
-    
-    if (0 === frameCount % 100) {
+    setTimeout(function () {
       
-      let speed = random(10 * speedRate, 15 * speedRate);
-      fireworks.push(new FireWork(random(width), height, 0, speed, 0.98));
-    }
+      setGradient(0, 0, width, height, color(0, 0, 0), color(24, 32, 72), Y_AXIS);
+      noStroke();
 
-    for (let fw of fireworks) {
       
-      if (2 === fw.getType || 30000 < fw.getFrame) {
-        fireworks = fireworks.filter((n) => n !== fw);
-        continue;
+      this.drawStar();
+
+      
+      if (0 === frameCount % 100) {
+        
+        let speed = random(10 * speedRate, 15 * speedRate);
+        fireworks.push(new FireWork(random(width), height, 0, speed, 0.98));
       }
 
-      
-      fw.fire();
-    }
+      for (let fw of fireworks) {
+        
+        if (2 === fw.getType || 30000 < fw.getFrame) {
+          fireworks = fireworks.filter((n) => n !== fw);
+          continue;
+        }
+
+        
+        fw.fire();
+      }
+    }, 1000);
   }
 
   class FireWork {
