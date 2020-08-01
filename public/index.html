@@ -145,6 +145,7 @@
   let canvas;
   let fireworks = [];
   let star = [];
+  const speedRate = 0.0002 * window.parent.screen.width + 0.5;
 
   function windowResized() {
     resizeCanvas(document.documentElement.clientWidth, document.documentElement.clientHeight);
@@ -153,12 +154,14 @@
 
   function setup() {
     
-    canvas = createCanvas(document.documentElement.clientWidth, document.documentElement.clientHeight);
-    canvas.position(0, 0);
-    canvas.style("z-index", "-1");
-    colorMode(RGB);
-    frameRate(60);
-    this.preStar();
+    setTimeout(function() {
+      canvas = createCanvas(document.documentElement.clientWidth, document.documentElement.clientHeight);
+      canvas.position(0, 0);
+      canvas.style("z-index", "-1");
+      colorMode(RGB);
+      frameRate(60);
+      this.preStar();
+    }, 1000)
   }
 
   function draw() {
@@ -172,7 +175,7 @@
     
     if (0 === frameCount % 100) {
       
-      let speed = random(10, 30);
+      let speed = random(10 * speedRate, 15 * speedRate);
       fireworks.push(new FireWork(random(width), height, 0, speed, 0.98));
     }
 
