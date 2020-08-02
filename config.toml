@@ -16,6 +16,9 @@ theme = "hugo-coder"
     custom_css = ["css/slider.css"]
     custom_js = ["javascript/slider.js"]
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [[params.social]]
     name = "Github"
     icon = "fab fa-github fa-2x"

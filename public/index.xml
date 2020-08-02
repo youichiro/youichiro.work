@@ -6,22 +6,27 @@
     <description>Recent content on youichiro.work</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 30 Jul 2020 00:00:38 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2020 12:43:19 +0900</lastBuildDate>
     
 	<atom:link href="https://youichiro.work/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>テスト投稿</title>
-      <link>https://youichiro.work/posts/test/</link>
-      <pubDate>Thu, 30 Jul 2020 00:00:38 +0900</pubDate>
+      <title>花火を上げた</title>
+      <link>https://youichiro.work/posts/20200802/</link>
+      <pubDate>Sun, 02 Aug 2020 12:43:19 +0900</pubDate>
       
-      <guid>https://youichiro.work/posts/test/</guid>
-      <description>&lt;p&gt;テスト投稿&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-ruby&#34; data-lang=&#34;ruby&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hoge&lt;/span&gt;
-  puts &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;hoge&amp;#39;&lt;/span&gt;
-&lt;span style=&#34;color:#66d9ef&#34;&gt;end&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+      <guid>https://youichiro.work/posts/20200802/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://youichiro.work/&#34;&gt;トップページ&lt;/a&gt;を開くと花火が上がるようにしました&lt;br&gt;
+↓こんな感じ&lt;br&gt;
+&lt;img src=&#34;picture1.png&#34; alt=&#34;picture1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;こちらの記事のコードを使わせていただきました → &lt;a href=&#34;https://qiita.com/iNaoki04/items/5d420440cf3d89f54f82&#34;&gt;JavaScriptで花火を作ってみよう！
+&lt;/a&gt;&lt;br&gt;
+HTMLファイルにこのJavaScriptのコードを追記するだけで花火が上がるようになります&lt;br&gt;
+背景も星の綺麗な夜空になって素敵です&lt;br&gt;
+今年は長岡花火が中止になってしまいましたが、あの景色はまだはっきりと覚えています&lt;br&gt;
+復活する日を楽しみにしています&lt;br&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
