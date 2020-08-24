@@ -24,8 +24,7 @@
 &lt;/a&gt;&lt;br&gt;
 HTMLファイルにこのJavaScriptのコードを追記するだけで花火が上がるようになります&lt;br&gt;
 背景も星の綺麗な夜空になって素敵です&lt;br&gt;
-今年は長岡花火が中止になってしまいましたが、あの景色はまだはっきりと覚えています&lt;br&gt;
-復活する日を楽しみにしています&lt;br&gt;&lt;/p&gt;
+今年は長岡花火が中止になってしまいましたが、復活する日を楽しみにしています&lt;br&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -81,16 +80,16 @@ HTMLファイルにこのJavaScriptのコードを追記するだけで花火が
 &lt;li&gt;Django, Flask&lt;/li&gt;
 &lt;li&gt;Ruby on Rails&lt;/li&gt;
 &lt;li&gt;Vue, Nuxt&lt;/li&gt;
-&lt;li&gt;React&lt;/li&gt;
+&lt;li&gt;React, ReactNative&lt;/li&gt;
 &lt;li&gt;Angular&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Tools
 &lt;ul&gt;
-&lt;li&gt;git&lt;/li&gt;
+&lt;li&gt;AWS&lt;/li&gt;
+&lt;li&gt;vim&lt;/li&gt;
 &lt;li&gt;Docker&lt;/li&gt;
 &lt;li&gt;tmux&lt;/li&gt;
-&lt;li&gt;vim&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
