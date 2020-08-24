@@ -21,13 +21,13 @@ draft: false
   - Django, Flask
   - Ruby on Rails
   - Vue, Nuxt
-  - React
+  - React, ReactNative
   - Angular
 - Tools
-  - git
+  - AWS
+  - vim
   - Docker
   - tmux
-  - vim
 
 
 ### Interests
