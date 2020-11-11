@@ -31,6 +31,12 @@ theme = "hugo-coder"
     weight = 2
     url = "https://twitter.com/cinnamon_416/"
 
+[[params.social]]
+    name = "SpeakerDeck"
+    icon = "fab fa-speaker-deck fa-2x"
+    weight = 3
+    url = "https://speakerdeck.com/youichiro"
+
 [[menu.main]]
     name = "About"
     weight = 1
@@ -40,8 +46,3 @@ theme = "hugo-coder"
     name = "Photos"
     weight = 2
     url = "/photos/"
-
-[[menu.main]]
-    name = "Blog"
-    weight = 3
-    url = "/posts/"
