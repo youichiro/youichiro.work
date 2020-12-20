@@ -4,11 +4,11 @@ date: 2020-05-09T16:53:35+09:00
 draft: false
 ---
 
-### Job
-- Webエンジニア
+### 仕事
+- 教育サービス企業のWebエンジニア
 
 
-### Skills
+### スキル
 
 - プログラミング言語
   - Python
@@ -23,35 +23,37 @@ draft: false
   - Vue, Nuxt
   - React, ReactNative
   - Angular
-- Tools
+- データサイエンス
+  - 自然言語処理
+  - 画像処理
+  - 機械学習, Deep Learning
+- ツール
   - AWS
-  - vim
   - Docker
+  - vim
   - tmux
+  - git
 
 
-### Interests
+### 興味があること, やってみたいこと
 
-- サーバーサイド, フロントエンド
-- 自然言語処理
-- Computer vision
-- Machine learning, Deep learning
-- 教育, EduTech
-- Blockchain
+- 教育データの活用
+- ブロックチェーン
+- IoT
 
 
-### Developed
+### 作ったもの
 - 日本語文法誤りチェッカー
   - https://app.jnlp.org/gec
+  - https://github.com/youichiro/transformer-copy
 - 技大祭シフトアプリ
   - [Google Play](https://play.google.com/store/apps/details?id=net.nutfes.nutfes_shift_app&hl=ja)
   - [App Store](https://apps.apple.com/jp/app/技大祭シフトアプリ/id1476829958)
-  - 現在は使用できません
-- 栃尾動物園マップ
-  - https://tochio-animals.netlify.app/
+  - https://github.com/youichiro/nutfes-shift-native
+  - ※ 現在は使用できません
 
 
-### Intern, Part time job
+### インターン, アルバイト
 - 株式会社Gunosy
   - 2017.10~2018.02
   - データ分析業務
@@ -60,31 +62,29 @@ draft: false
   - 研究開発
 
 
-### Publications
+### 研究発表
 
-- 小川耀一朗, 山本和英. (2017) "間違えやすい漢字の誤用訂正", 2017年度日本語教育学会秋季大会, pp.342-346
-- Youichiro Ogawa, Kazuhide Yamamoto. (2017) "Correcting Misuse of Japanese Visually Similar Characters", Proceedings of the International Conference on Asian Language Processing (IALP 2017), pp.57-60
-- 小川耀一朗, 山本和英. (2018) "「間違いが直す」格助詞誤り訂正システム", 2018年度日本語教育学会秋季大会, pp.313-318
-- 小川耀一朗, 山本和英. (2019) "分類モデルを用いた日本語学習者の格助詞誤り訂正", 言語処理学会第25回年次大会, pp.827-830
-- Youichiro Ogawa, Kazuhide Yamamoto. (2019) "Japanese Particle Error Correction employing Classification Model", Proceedings of the International Conference on Asian Language Processing (IALP 2019), pp.23-28
-- 小川耀一朗, 山本和英. (2020) "日本語文法誤り訂正における誤り傾向を考慮した擬似誤り生成", 言語処理学会第26回年次大会, pp.505-508
+- 小川耀一朗, 山本和英. (2017) "間違えやすい漢字の誤用訂正", 2017年度日本語教育学会秋季大会
+- Youichiro Ogawa, Kazuhide Yamamoto. (2017) "Correcting Misuse of Japanese Visually Similar Characters", IALP 2017
+- 小川耀一朗, 山本和英. (2018) "「間違いが直す」格助詞誤り訂正システム", 2018年度日本語教育学会秋季大会
+- 小川耀一朗, 山本和英. (2019) "分類モデルを用いた日本語学習者の格助詞誤り訂正", 言語処理学会第25回年次大会
+- Youichiro Ogawa, Kazuhide Yamamoto. (2019) "Japanese Particle Error Correction employing Classification Model", IALP 2019
+- 小川耀一朗, 山本和英. (2020) "日本語文法誤り訂正における誤り傾向を考慮した擬似誤り生成", 言語処理学会第26回年次大会
 
 
-### Hobbies
-- [写真](https://youichiro.work/photos)
-- 読書
+### 趣味
+- 写真
+- 本
 - サッカー
+- バイク
 
 
-### From
-- Nagaoka, Niigata
+### 出身
+- 新潟県長岡市
 
 
-### Links
+### リンク
 - [Twitter](https://twitter.com/cinnamon_416)
 - [GitHub](https://github.com/youichiro)
 - [Speaker Deck](https://speakerdeck.com/youichiro/)
 
-
-### Contact
-- cinnamon416@gmail.com

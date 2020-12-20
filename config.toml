@@ -17,6 +17,7 @@ theme = "hugo-coder"
     custom_js = ["javascript/slider.js"]
 
 [markup.goldmark.renderer]
+  hardWraps = true
   unsafe = true
 
 [[params.social]]
@@ -46,3 +47,9 @@ theme = "hugo-coder"
     name = "Photos"
     weight = 2
     url = "/photos/"
+
+[[menu.main]]
+    name = "Posts"
+    weight = 3
+    url = "/posts/"
+

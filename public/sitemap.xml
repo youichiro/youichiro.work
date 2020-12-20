@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://youichiro.work/posts/</loc>
+    <lastmod>2020-12-20T14:29:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://youichiro.work/</loc>
+    <lastmod>2020-12-20T14:29:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://youichiro.work/posts/20201220/</loc>
+    <lastmod>2020-12-20T14:29:06+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://youichiro.work/photos/</loc>
     <lastmod>2020-05-09T21:38:41+09:00</lastmod>
   </url>
@@ -18,10 +33,6 @@
   
   <url>
     <loc>https://youichiro.work/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://youichiro.work/</loc>
   </url>
   
 </urlset>
