@@ -8,9 +8,9 @@ html {
   font-size: 62.5%; }
 
 body {
-  color: #212121;
+  color: #383838;
   background-color: #FAFAFA;
-  font-family: serif, Merriweather, Georgia;
+  font-family: HiraKakuPro-W3, serif;
   font-size: 1.6em;
   font-weight: 300;
   line-height: 1.8em; }
@@ -34,10 +34,10 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Lato, Helvetica, sans-serif;
+  font-family: HiraKakuPro-W3, sans-serif;
   font-weight: 700;
   color: #000;
-  margin: 6.4rem 0 3.2rem 0; }
+  margin: 6.4rem 0 2.2rem 0; }
 
 h1 {
   font-size: 3.2rem;
@@ -108,7 +108,7 @@ code {
   font-size: 1.6rem;
   font-weight: 400;
   background-color: #E0E0E0;
-  color: #212121; }
+  color: #383838; }
 
 blockquote {
   border-left: 2px solid #E0E0E0;
@@ -249,8 +249,8 @@ figure {
           text-align: left; } }
     .list ul li .title {
       font-size: 1.8rem;
-      color: #212121;
-      font-family: Lato, Helvetica, sans-serif;
+      color: #383838;
+      font-family: HiraKakuPro-W3, sans-serif;
       font-weight: 700; }
       .list ul li .title:hover, .list ul li .title:focus {
         color: #1565c0; }
@@ -279,7 +279,7 @@ figure {
         display: inline-block;
         position: relative; }
         .centered .about ul li a {
-          color: #212121;
+          color: #383838;
           text-transform: uppercase;
           margin-left: 1.0rem;
           margin-right: 1.0rem;
@@ -313,10 +313,10 @@ figure {
   .navigation a, .navigation span {
     display: inline;
     font-size: 1.6rem;
-    font-family: Lato, Helvetica, sans-serif;
+    font-family: HiraKakuPro-W3, sans-serif;
     font-weight: 700;
     line-height: 6.0rem;
-    color: #212121; }
+    color: #383838; }
   .navigation a:hover, .navigation a:focus {
     color: #1565c0; }
   .navigation .navigation-title {
@@ -357,7 +357,7 @@ figure {
         margin-right: 1.0rem; }
     @media only screen and (max-width: 768px) {
       .navigation .navigation-list .menu-separator {
-        border-top: 2px solid #212121;
+        border-top: 2px solid #383838;
         margin: 0 8.0rem; }
         .navigation .navigation-list .menu-separator span {
           display: none; } }
@@ -378,14 +378,14 @@ figure {
         font-size: 2.4rem;
         font-weight: 400;
         line-height: 6.0rem;
-        color: #212121;
+        color: #383838;
         cursor: pointer; }
         .navigation .menu-button:hover, .navigation .menu-button:focus {
           color: #1565c0; } }
 .pagination {
   margin-top: 6.0rem;
   text-align: center;
-  font-family: Lato, Helvetica, sans-serif; }
+  font-family: HiraKakuPro-W3, sans-serif; }
   .pagination li {
     display: inline;
     text-align: center;
