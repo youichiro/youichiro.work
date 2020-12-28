@@ -21,7 +21,7 @@ draft: false
   - Django, Flask
   - Ruby on Rails
   - Vue, Nuxt
-  - React, ReactNative
+  - React, ReactNative, Next
   - Angular
 - データサイエンス
   - 自然言語処理
