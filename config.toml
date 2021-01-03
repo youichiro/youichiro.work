@@ -5,7 +5,7 @@ theme = "my-hugo-coder"
 
 [params]
     author = "Youichiro Ogawa"
-    info = ""
+    info = "hoge"
     description = "Youichiro Ogawa's personal website"
     keywords = "小川耀一朗"
     avatarurl = "images/icon.jpg"
