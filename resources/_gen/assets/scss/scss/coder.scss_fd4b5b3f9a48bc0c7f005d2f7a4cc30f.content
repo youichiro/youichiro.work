@@ -10,7 +10,7 @@ html {
 body {
   color: #383838;
   background-color: #FAFAFA;
-  font-family: HiraKakuPro-W3, serif;
+  font-family: "Noto Sans JP";
   font-size: 1.6em;
   font-weight: 300;
   line-height: 1.8em; }
@@ -34,7 +34,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: HiraKakuPro-W3, sans-serif;
+  font-family: "Noto Sans JP";
   font-weight: 700;
   color: #000;
   margin: 6.4rem 0 2.2rem 0; }
@@ -250,7 +250,7 @@ figure {
     .list ul li .title {
       font-size: 1.8rem;
       color: #383838;
-      font-family: HiraKakuPro-W3, sans-serif;
+      font-family: "Noto Sans JP";
       font-weight: 700; }
       .list ul li .title:hover, .list ul li .title:focus {
         color: #1565c0; }
@@ -313,7 +313,7 @@ figure {
   .navigation a, .navigation span {
     display: inline;
     font-size: 1.6rem;
-    font-family: HiraKakuPro-W3, sans-serif;
+    font-family: "Noto Sans JP";
     font-weight: 700;
     line-height: 6.0rem;
     color: #383838; }
@@ -385,7 +385,7 @@ figure {
 .pagination {
   margin-top: 6.0rem;
   text-align: center;
-  font-family: HiraKakuPro-W3, sans-serif; }
+  font-family: "Noto Sans JP"; }
   .pagination li {
     display: inline;
     text-align: center;
