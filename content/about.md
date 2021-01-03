@@ -43,13 +43,8 @@ draft: false
 
 
 ### 作ったもの
-- 日本語文法誤りチェッカー
-  - https://app.jnlp.org/gec
-  - https://github.com/youichiro/transformer-copy
-- 技大祭シフトアプリ
-  - [Google Play](https://play.google.com/store/apps/details?id=net.nutfes.nutfes_shift_app&hl=ja)
-  - [App Store](https://apps.apple.com/jp/app/技大祭シフトアプリ/id1476829958)
-  - https://github.com/youichiro/nutfes-shift-native
+- [日本語文法誤りチェッカー](https://app.jnlp.org/gec)
+- [技大祭シフトアプリ](https://play.google.com/store/apps/details?id=net.nutfes.nutfes_shift_app&hl=ja)
   - ※ 現在は使用できません
 
 
