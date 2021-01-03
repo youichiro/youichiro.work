@@ -1,4 +1,4 @@
-baseURL = "youichiro-work.vercel.app"
+baseURL = ""
 languageCode = "ja"
 title = "youichiro.work"
 theme = "my-hugo-coder"
