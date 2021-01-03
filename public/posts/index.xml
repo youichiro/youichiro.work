@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on youichiro.work</title>
-    <link>https://youichiro.work/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on youichiro.work</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 20 Dec 2020 14:29:06 +0900</lastBuildDate>
     
-	<atom:link href="https://youichiro.work/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>なぜ教育に関わりたいと思ったのか</title>
-      <link>https://youichiro.work/posts/20201220/</link>
+      <link>/posts/20201220/</link>
       <pubDate>Sun, 20 Dec 2020 14:29:06 +0900</pubDate>
       
-      <guid>https://youichiro.work/posts/20201220/</guid>
+      <guid>/posts/20201220/</guid>
       <description>&lt;h2 id=&#34;教えることが面白いと思うから&#34;&gt;教えることが面白いと思うから&lt;/h2&gt;
 &lt;p&gt;思い返すと、これまで「人に教える」ことを割と多く経験してきたと思う&lt;/p&gt;
 &lt;p&gt;居酒屋バイトのバイトリーダーとして新人に仕事を教えたり仕事を振ったりしたこと&lt;br&gt;

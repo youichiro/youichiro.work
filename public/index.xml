@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>youichiro.work</title>
-    <link>https://youichiro.work/</link>
+    <link>/</link>
     <description>Recent content on youichiro.work</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 20 Dec 2020 14:29:06 +0900</lastBuildDate>
     
-	<atom:link href="https://youichiro.work/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>なぜ教育に関わりたいと思ったのか</title>
-      <link>https://youichiro.work/posts/20201220/</link>
+      <link>/posts/20201220/</link>
       <pubDate>Sun, 20 Dec 2020 14:29:06 +0900</pubDate>
       
-      <guid>https://youichiro.work/posts/20201220/</guid>
+      <guid>/posts/20201220/</guid>
       <description>&lt;h2 id=&#34;教えることが面白いと思うから&#34;&gt;教えることが面白いと思うから&lt;/h2&gt;
 &lt;p&gt;思い返すと、これまで「人に教える」ことを割と多く経験してきたと思う&lt;/p&gt;
 &lt;p&gt;居酒屋バイトのバイトリーダーとして新人に仕事を教えたり仕事を振ったりしたこと&lt;br&gt;
@@ -84,14 +84,14 @@ ICTで先生の負担を軽減することで、先生はもっと生徒と向�
     
     <item>
       <title>Photos</title>
-      <link>https://youichiro.work/photos/</link>
+      <link>/photos/</link>
       <pubDate>Sat, 09 May 2020 21:38:41 +0900</pubDate>
       
-      <guid>https://youichiro.work/photos/</guid>
+      <guid>/photos/</guid>
       <description>
 
 &lt;div id=&#34;slider&#34;&gt;
-  &lt;img src=&#34;https://youichiro.work/images/slider/image1.jpg&#34; id=&#34;slide-img&#34;&gt;
+  &lt;img src=&#34;/images/slider/image1.jpg&#34; id=&#34;slide-img&#34;&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;slider-nav&#34;&gt;
@@ -109,10 +109,10 @@ ICTで先生の負担を軽減することで、先生はもっと生徒と向�
     
     <item>
       <title>About me</title>
-      <link>https://youichiro.work/about/</link>
+      <link>/about/</link>
       <pubDate>Sat, 09 May 2020 16:53:35 +0900</pubDate>
       
-      <guid>https://youichiro.work/about/</guid>
+      <guid>/about/</guid>
       <description>&lt;h3 id=&#34;仕事&#34;&gt;仕事&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;教育サービス企業のWebエンジニア&lt;/li&gt;
