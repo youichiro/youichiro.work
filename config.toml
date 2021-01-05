@@ -3,6 +3,8 @@ languageCode = "ja"
 title = "youichiro.work"
 theme = "my-hugo-coder"
 
+googleAnalytics = "UA-150108485-1"
+
 [params]
     author = "Youichiro Ogawa"
     info = ""
