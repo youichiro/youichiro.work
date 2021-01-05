@@ -43,7 +43,7 @@ draft: false
 
 
 ### 作ったもの
-- [タイムキーパー](https://time-keeper.vercel.app/)
+- [Timekeeper](https://time-keeper.vercel.app/)
 - [日本語文法誤りチェッカー](https://app.jnlp.org/gec)
 - [技大祭シフトアプリ](https://play.google.com/store/apps/details?id=net.nutfes.nutfes_shift_app&hl=ja)
   - ※ 現在は使用できません
