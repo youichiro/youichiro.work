@@ -18,9 +18,10 @@ googleAnalytics = "UA-150108485-1"
     custom_css = ["css/slider.css"]
     custom_js = ["javascript/slider.js"]
 
-[markup.goldmark.renderer]
-  hardWraps = true
-  unsafe = true
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = true
 
 [[params.social]]
     name = "Github"
