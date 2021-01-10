@@ -22,6 +22,7 @@ googleAnalytics = "UA-150108485-1"
   [markup.goldmark]
     [markup.goldmark.renderer]
       hardWraps = true
+      unsafe = true
 
 [[params.social]]
     name = "Github"
