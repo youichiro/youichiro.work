@@ -80,7 +80,7 @@ draft: false
 
 
 ### リンク
-- [Twitter](https://twitter.com/cinnamon_416)
+- [Twitter](https://twitter.com/youichiroX)
 - [GitHub](https://github.com/youichiro)
 - [Speaker Deck](https://speakerdeck.com/youichiro/)
 - [Qiita](https://qiita.com/youichiro)
