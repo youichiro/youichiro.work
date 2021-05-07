@@ -14,6 +14,8 @@ series = []
 [Sudachi](https://github.com/WorksApplications/Sudachi)は形態素解析ツールの一つであり、株式会社ワークスアプリケーションズの徳島人工知能NLP研究所が開発している。
 [GiNZA](https://megagonlabs.github.io/ginza/)の形態素解析処理にこのSudachiが使われている。
 
+![image](https://user-images.githubusercontent.com/20487308/117477748-56707600-af99-11eb-9080-7a04e99ac78f.png)
+
 ## GitHub
 - Java
   - https://github.com/WorksApplications/Sudachi
