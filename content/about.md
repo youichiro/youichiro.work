@@ -5,57 +5,46 @@ draft: false
 ---
 
 ### 仕事
-- 教育サービス企業のWebエンジニア
+- Webエンジニア
 
 
 ### スキル
 
 - プログラミング言語
-  - Python
-  - Ruby
-  - SQL
   - JavaScript, TypeScript
-  - C, C++
-  - Go
+  - Ruby
+  - Python
+  - SQL
 - フレームワーク
-  - Django, Flask
-  - Ruby on Rails
-  - Vue, Nuxt
-  - React, ReactNative, Next
+  - React, ReactNative, Next.js
+  - Vue, Nuxt.js
   - Angular
+  - Ruby on Rails
+  - Django
 - データサイエンス
+  - 機械学習, ディープラーニング
   - 自然言語処理
-  - 画像処理
-  - 機械学習, Deep Learning
-- ツール
+  - Computer Vision
+- インフラ
   - AWS
+  - terraform
+- ツール
   - Docker
   - vim
   - tmux
   - git
 
 
-### 興味があること, やってみたいこと
+### 興味があること
 
-- 教育データの活用
-- ブロックチェーン
-- IoT
+- 教育
 
 
 ### 作ったもの
 - [Timekeeper](https://time-keeper.vercel.app/)
-- [日本語文法誤りチェッカー](https://app.jnlp.org/gec)
-- [技大祭シフトアプリ](https://play.google.com/store/apps/details?id=net.nutfes.nutfes_shift_app&hl=ja)
-  - ※ 現在は使用できません
+- [日本語文法誤りチェッカー](https://github.com/youichiro/transformer-copy)
+- [技大祭シフトアプリ](https://github.com/youichiro/nutfes-shift-native)
 
-
-### インターン, アルバイト
-- 株式会社Gunosy
-  - 2017.10~2018.02
-  - データ分析業務
-- ギリア株式会社 (旧AIUEO)
-  - 2019.07~2020.03
-  - 研究開発
 
 
 ### 研究発表
@@ -69,14 +58,10 @@ draft: false
 
 
 ### 趣味
+
 - 写真
-- 本
 - サッカー
 - バイク
-
-
-### 出身
-- 新潟県長岡市
 
 
 ### リンク
@@ -84,3 +69,4 @@ draft: false
 - [GitHub](https://github.com/youichiro)
 - [Speaker Deck](https://speakerdeck.com/youichiro/)
 - [Qiita](https://qiita.com/youichiro)
+- [note](https://note.com/youichiroz)
