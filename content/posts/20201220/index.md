@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = true
 date = 2020-12-20T14:29:06+09:00
 title = "なぜ教育に関わりたいと思ったのか"
 description = "なぜ教育に関わりたいと思ったのか"
