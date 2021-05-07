@@ -111,7 +111,7 @@ EOS
 - [kuromoji](https://www.atilika.com/ja/kuromoji/)
   - Elasticsearchに採用されている
   - Normal, Search, Extendedの3つのモードがある
-  - ![image](https://user-images.githubusercontent.com/20487308/117473999-7f8f0780-af95-11eb-840e-e5b00bf5a383.png)
+  - ![image](https://user-images.githubusercontent.com/20487308/117475167-b31e6180-af96-11eb-9ebc-b45209c73103.png)
 
 
 ## Sudachiの特長
