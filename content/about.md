@@ -65,7 +65,7 @@ draft: false
 
 
 ### リンク
-- [Twitter](https://twitter.com/youichiroX)
+- [Twitter](https://twitter.com/youichiroz)
 - [GitHub](https://github.com/youichiro)
 - [Speaker Deck](https://speakerdeck.com/youichiro/)
 - [Qiita](https://qiita.com/youichiro)

@@ -33,7 +33,7 @@ googleAnalytics = "UA-150108485-1"
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
     weight = 2
-    url = "https://twitter.com/youichiroX/"
+    url = "https://twitter.com/youichiroz/"
 
 [[params.social]]
     name = "SpeakerDeck"
