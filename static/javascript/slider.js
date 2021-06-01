@@ -10,7 +10,6 @@ const zeroPadding = (num, len) => {
 
 const loadImage = (paths) => {
   const preload = new createjs.LoadQueue();
-  // preload.addEventListener("fileload", handleFileComplete);
   paths.map(path => preload.loadFile(path));
 }
 
