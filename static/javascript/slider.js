@@ -8,7 +8,14 @@ const zeroPadding = (num, len) => {
   return ('0000' + num).slice(-len)
 }
 
+const loadImage = (paths) => {
+  const preload = new createjs.LoadQueue();
+  // preload.addEventListener("fileload", handleFileComplete);
+  paths.map(path => preload.loadFile(path));
+}
+
 const images = [...Array(imageNum).keys()].sort((a, b) => b - a).map(i => `/images/slider/image${zeroPadding(i+1, 2)}.jpg`);
+loadImage(images)
 
 let count = 0;
 let sliderMode = false;
