@@ -51,8 +51,3 @@ googleAnalytics = "UA-150108485-1"
     weight = 2
     url = "/photos/"
 
-[[menu.main]]
-    name = "Posts"
-    weight = 3
-    url = "/posts/"
-

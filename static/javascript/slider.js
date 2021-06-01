@@ -2,8 +2,13 @@
 
 const timestep = 3 * 1000;  // ms
 
-const imageNum = 9;
-const images = [...Array(imageNum).keys()].map(i => `/images/slider/image${i+1}.jpg`);
+const imageNum = 10;
+
+const zeroPadding = (num, len) => {
+  return ('0000' + num).slice(-len)
+}
+
+const images = [...Array(imageNum).keys()].sort((a, b) => b - a).map(i => `/images/slider/image${zeroPadding(i+1, 2)}.jpg`);
 
 let count = 0;
 let sliderMode = false;
