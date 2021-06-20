@@ -69,4 +69,3 @@ draft: false
 - [GitHub](https://github.com/youichiro)
 - [Speaker Deck](https://speakerdeck.com/youichiro/)
 - [Qiita](https://qiita.com/youichiro)
-- [note](https://note.com/youichiroz)
