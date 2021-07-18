@@ -36,10 +36,10 @@ googleAnalytics = "UA-150108485-1"
     url = "https://twitter.com/youichiroz/"
 
 [[params.social]]
-    name = "SpeakerDeck"
-    icon = "fab fa-speaker-deck fa-2x"
+    name = "Instagram"
+    icon = "fab fa-instagram-square fa-2x"
     weight = 3
-    url = "https://speakerdeck.com/youichiro"
+    url = "https://www.instagram.com/youichiroz/"
 
 [[menu.main]]
     name = "About"

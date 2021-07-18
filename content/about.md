@@ -16,8 +16,8 @@ draft: false
   - Python
   - SQL
 - フレームワーク
-  - React, ReactNative, Next.js
-  - Vue, Nuxt.js
+  - React, Next.js, ReactNative
+  - Vue.js, Nuxt.js
   - Angular
   - Ruby on Rails
   - Django
@@ -46,22 +46,14 @@ draft: false
 - [技大祭シフトアプリ](https://github.com/youichiro/nutfes-shift-native)
 
 
-
-### 研究発表
-
-- 小川耀一朗, 山本和英. (2017) "間違えやすい漢字の誤用訂正", 2017年度日本語教育学会秋季大会
-- Youichiro Ogawa, Kazuhide Yamamoto. (2017) "Correcting Misuse of Japanese Visually Similar Characters", IALP 2017
-- 小川耀一朗, 山本和英. (2018) "「間違いが直す」格助詞誤り訂正システム", 2018年度日本語教育学会秋季大会
-- 小川耀一朗, 山本和英. (2019) "分類モデルを用いた日本語学習者の格助詞誤り訂正", 言語処理学会第25回年次大会
-- Youichiro Ogawa, Kazuhide Yamamoto. (2019) "Japanese Particle Error Correction employing Classification Model", IALP 2019
-- 小川耀一朗, 山本和英. (2020) "日本語文法誤り訂正における誤り傾向を考慮した擬似誤り生成", 言語処理学会第26回年次大会
-
+### 執筆
+- [【Rails × Vue.js】 Googleカレンダー風カレンダーアプリを作ってみよう](https://www.techpit.jp/courses/173)
 
 ### 趣味
 
-- 写真
-- サッカー
+- 写真・カメラ
 - バイク
+- 本
 
 
 ### リンク
@@ -69,3 +61,4 @@ draft: false
 - [GitHub](https://github.com/youichiro)
 - [Speaker Deck](https://speakerdeck.com/youichiro/)
 - [Qiita](https://qiita.com/youichiro)
+- [Instagram](https://www.instagram.com/youichiroz/)
