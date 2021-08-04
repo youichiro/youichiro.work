@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "ja"
-title = "youichiro"
+title = "youichiro.me"
 theme = "my-hugo-coder"
 
 googleAnalytics = "UA-150108485-1"
