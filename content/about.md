@@ -28,11 +28,6 @@ draft: false
 - インフラ
   - AWS
   - terraform
-- ツール
-  - Docker
-  - vim
-  - tmux
-  - git
 
 
 ### 興味があること
@@ -40,14 +35,25 @@ draft: false
 - 教育
 
 
+### 大学の研究テーマ
+- 日本語文法誤り訂正
+
+
 ### 作ったもの
-- [Timekeeper](https://time-keeper.vercel.app/)
-- [日本語文法誤りチェッカー](https://github.com/youichiro/transformer-copy)
-- [技大祭シフトアプリ](https://github.com/youichiro/nutfes-shift-native)
+
+- Timekeeper
+  - https://time-keeper.vercel.app
+- 日本語文法誤りチェッカー
+  - https://github.com/youichiro/transformer-copy
+- 技大祭シフトアプリ
+  - https://github.com/youichiro/nutfes-shift-native
+- 株式会社山﨑組コーポレートサイト
+  - https://www.yamazakinet.co.jp/
 
 
 ### 執筆
-- [【Rails × Vue.js】 Googleカレンダー風カレンダーアプリを作ってみよう](https://www.techpit.jp/courses/173)
+- 【Rails × Vue.js】 Googleカレンダー風カレンダーアプリを作ってみよう
+  - https://www.techpit.jp/courses/173
 
 ### 趣味
 
@@ -61,4 +67,6 @@ draft: false
 - [GitHub](https://github.com/youichiro)
 - [Speaker Deck](https://speakerdeck.com/youichiro/)
 - [Qiita](https://qiita.com/youichiro)
+- [Zenn](https://zenn.dev/youichiro)
 - [Instagram](https://www.instagram.com/youichiroz/)
+
